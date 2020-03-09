@@ -1,7 +1,6 @@
 # Debian 9 (Stretch) Molecule Test Image
-[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-debian9/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-debian9)
+[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-debian9/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-debian9)[![Build Status](https://travis-ci.com/synominit/ansible-ipxe-server.svg?token=UxNrdTp4uZjxLv6pUq4x&branch=master)](https://travis-ci.com/synominit/ansible-ipxe-server)
 
-[![Build Status](https://travis-ci.com/synominit/ansible-ipxe-server.svg?token=UxNrdTp4uZjxLv6pUq4x&branch=master)](https://travis-ci.com/synominit/ansible-ipxe-server)
 
 
 Debian 9 (Stretch) Docker container for Ansible playbook and role testing.
