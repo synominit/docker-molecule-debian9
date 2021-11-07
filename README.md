@@ -38,4 +38,4 @@ I use Docker to test my Ansible roles and playbooks on multiple OSes using CI to
 
 ## Author
 
-Created in 2020 by [Skye Pham](https://www.skyelp.com/), DevOps Architect, Reverse Engineering and Security Specialist.
+Created in 2020 by [David Pham](https://github.com/synominit), DevOps Architect, Reverse Engineering and Security Specialist.
